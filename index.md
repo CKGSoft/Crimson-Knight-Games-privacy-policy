@@ -4,13 +4,24 @@
 This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information in our applications and services.
 
 <b>User & Device info</b>
-We do not collect any personally identifiable information from users. You are not required to register to use the Application. We do not collect precise information about the location of your mobile device. 
-We do not collect any user provided information in any shape or form. In other words, we do not collect information such as your name, address, phone number or email address. 
-In other words, WE DO NOT COLLECT ANY KIND OF INFORMATION. <u>WE DO NOT COLLECT ANYTHING</u>
+We do not collect any personally identifiable information from users. 
+We do not collect precise information about the location of your mobile device. 
+We do not collect any user provided information in any shape or form. 
+In other words, WE CRIMISON KNIGHT GAMES DO NOT COLLECT ANY KIND OF INFORMATION. <u>WE DO NOT COLLECT ANYTHING</u>
 
 
-<b>Third party Ads</b>
-Occasionally, at our discretion, we may include or offer third party products or services on our websites and apps. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites and apps. Nonetheless, we seek to protect the integrity of our sites / apps and welcome any feedback about these sites / apps.
+<b>Ad Networks and ads in our apps</b>
+We may include or offer third party ads in apps. These third party sites have separate and independent privacy policies. Nonetheless these third party ads are part of our app and we seek to protect the integrity of our apps and we care about our users and respect their  privacy. You can check their privacy policy at the links bellow:
+
+AppNext:
+https://www.appnext.com/policy/
+
+UnityAds:
+https://unity3d.com/legal/privacy-policy
+
+
+Google AdMob:
+https://support.google.com/admob/answer/6128543?hl=en
 
 
 
