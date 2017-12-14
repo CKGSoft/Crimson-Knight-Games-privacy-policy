@@ -1,4 +1,4 @@
-<b>Crimson Knight Games - Privacy Policy</b>
+<b><u>PRIVACY POLICY</b></u>
 
 
 This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information in our applications and services.
@@ -26,14 +26,17 @@ https://support.google.com/admob/answer/6128543?hl=en
 
 
 <b>Children</b>
+
 We do not knowingly collect or store personally identifiable information from anyone under the age of 13 unless or except as permitted by law. ANY PERSON WHO VISITS ANY OF THE WEBSITES OR USES ANY OF THE MOBILE APPS REPRESENTS TO US THAT HE OR SHE IS 13 YEARS OF AGE OR OLDER. If we are made aware that we have received personally identifiable information from someone under 13, We will use reasonable efforts to remove that information from our records.
 
 
 <b>Your Consent</b>
+
 By using our Application, you are consenting to our processing of your information as set forth in this Privacy Policy and using cookies for collecting the information in accordance with the Google Terms of Services and cookie use policy. 
 
 
 <b>Changes:</b>
+
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. These changes are effective immediately, after they are posted on this page.
 
 
@@ -41,4 +44,5 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 
 <b>Contact Us:</b>
+
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at crimsonknightgames@yahoo.com.
